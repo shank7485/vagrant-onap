@@ -1,3 +1,5 @@
+### This is **DEPRECATED**! Please go to (https://git.onap.org/integration/tree/bootstrap/vagrant-onap)[] ###
+
 # ONAP on Vagrant
 
 [![Build Status](https://api.travis-ci.org/electrocucaracha/vagrant-onap.svg?branch=master)](https://api.travis-ci.org/electrocucaracha/vagrant-onap)
